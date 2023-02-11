@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML | CSS | JavaScript | MongoDB | ExpressJs | React | NodeJs**
 
-- Education : **B.Tech | M.Tech**
+- 🎓 Education : **B.Tech | M.Tech**
 
 - 📫 How to reach me **tejas.vishnoi@gmail.com**
 
