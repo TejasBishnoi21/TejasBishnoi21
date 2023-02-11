@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **HTML | CSS | JavaScript | MongoDB | ExpressJs | React | NodeJs**
 
+- 🎓 Education : **B.Tech | M.Tech**
+
 - 📫 How to reach me **tejas.vishnoi@gmail.com**
 
 - ⚡ Fun fact **I am a Structural Engineer so I can tell you engineering behind those mesmerizing Skyscrapers and Bridges**
