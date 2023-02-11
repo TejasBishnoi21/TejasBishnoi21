@@ -7,15 +7,15 @@
 <img align="right" alt="coding" width="250" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TejasBishnoi21&label=Profile%20views&color=0e75b6&style=flat" alt="TejasBishnoi21" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **MERN Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://tejasbishnoi21.github.io/](https://tejasbishnoi21.github.io/)
+- 👨‍💻 Have a look at my portfolio at:  [https://tejasbishnoi21.github.io/](https://tejasbishnoi21.github.io/)
 
 - 💬 Ask me about **HTML | CSS | JavaScript | MongoDB | ExpressJs | React | NodeJs**
 
-- 📫 How to reach me **tejas.vishnoi@gmail.com**
+- 📫 How to reach me:  **tejas.vishnoi@gmail.com**
 
-- ⚡ Fun fact **I am a Structural Engineer so I can tell you engineering behind those mesmerizing Skyscrapers and Bridges**
+- ⚡ Fun fact:  **I am a Structural Engineer so I can tell you engineering behind those mesmerizing Skyscrapers and Bridges**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
