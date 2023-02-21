@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejasvi Bishnoi</h1>
 <h2><p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=MERN+Stack+Web+Developer;1300%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
 </p>
  <br/></h2>
 
@@ -17,7 +17,7 @@
 
 - 📫 Reach out to me at:  **tejas.vishnoi@gmail.com**
 
-- ⚡ Fun fact:  **I am a Structural Engineer so I can tell you engineering behind those mesmerizing Skyscrapers and Bridges**
+- ⚡ Fun fact:  **I have a background in Structural Engineering so I can tell you the engineering behind those mesmerizing Skyscrapers and Bridges**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
