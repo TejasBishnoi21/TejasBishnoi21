@@ -17,7 +17,7 @@
 
 - 📫 Reach out to me at:  **tejas.vishnoi@gmail.com**
 
-- ⚡ Fun fact:  **I have a background in Structural Engineering so I can tell you the engineering behind those mesmerizing Skyscrapers and Bridges**
+- ⚡ Fun fact:  **I have a background in Structural Engineering so I can tell you the engineering behind those mesmerizing Skyscrapers and Bridges too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
