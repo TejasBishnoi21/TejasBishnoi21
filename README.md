@@ -39,7 +39,7 @@
 <p >
   
 <img  src="https://github-readme-stats.vercel.app/api?username=TejasBishnoi21&show_icons=true&locale=en&theme=tokyonight&border_radius=10" alt="TejasBishnoi21" width="48%">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=TejasBishnoi21&show_icons=true&locale=en&theme=tokyonight&border_radius=10" alt="TejasBishnoi21"width="48%" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=TejasBishnoi21&show_icons=true&locale=en&theme=tokyonight&border_radius=10" alt="TejasBishnoi21"width="48%" /> 
 
 <br />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=TejasBishnoi21&show_icons=true&show_icons=true&locale=en&theme=tokyonight&border_radius=10" alt="TejasBishnoi21" align="center"  />
