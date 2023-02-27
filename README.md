@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Web Development**
 
-- 👨‍💻 Have a look at my portfolio at:  [https://tejasbishnoi21.github.io/](https://tejasbishnoi21.github.io/)
+- 👨‍💻 Have a look at my portfolio at: <a href="https://tejasbishnoi21.github.io/" target="_blank">https://tejasbishnoi21.github.io/<a/>
 
 - 💬 Ask me about **HTML | CSS | JavaScript | MongoDB | ExpressJs | React | NodeJs**
 
