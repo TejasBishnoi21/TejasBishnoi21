@@ -29,7 +29,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,nodejs,express,mongodb,postman,netlify,heroku,npm & line=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,nodejs,express,mongodb,tailwind,chakraui,postman,netlify,heroku,npm & line=5" />
   </a>
 </p>
 
