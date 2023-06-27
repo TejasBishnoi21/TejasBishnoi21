@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="250" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TejasBishnoi21&label=Profile%20views&color=0e75b6&style=flat" alt="TejasBishnoi21" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Web Development**
+- 🌱 I’m a **MERN Stack Web Developer**
 
 - 👨‍💻 Have a look at my portfolio at: <a href="https://tejasbishnoi21.github.io/" target="_blank">https://tejasbishnoi21.github.io/<a/>
 
