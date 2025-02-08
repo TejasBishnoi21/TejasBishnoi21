@@ -17,7 +17,7 @@
 
 - 📫 Reach out to me at:  **tejas.vishnoi@gmail.com**
 
-- ⚡ Fun fact:  **Apart from developing web applications, I can also tell you all about the engineering behind those mesmerising Skyscrapers and Bridges too as I have a background in Structural Engineering.**
+- ⚡ Fun fact:  **When I'm not building web applications, I can geek out about the engineering behind those jaw-dropping skyscrapers and bridges—because I used to build the real stuff before switching to the digital world!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +28,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,nodejs,express,mongodb,tailwind,postman,netlify,heroku,npm & line=5" />
   </a>
 </p>
